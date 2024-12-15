@@ -1,0 +1,41 @@
+#For debug code block
+
+Population_Control_Debug = { #for debug
+	trigger = {
+		AND = { # Administrative government safe						
+			any_close_family_member	 = {
+				trigger_if = {
+					limit = { NOT = { Barony_Safe = 1 } }
+					highest_held_title_tier >= tier_county								
+				}							
+				is_ruler = yes
+				is_alive = yes					
+			}
+			trigger_if = {
+				limit = {
+					root.faith = { has_dominant_ruling_gender = root }
+					#root = {is_male = yes}
+				}
+				any_sibling = { #male
+					is_alive = yes
+					age >= root.age
+					this.faith = { has_dominant_ruling_gender = prev }
+					#is_male = yes
+					count <= 1
+				}
+			}
+			trigger_else = {
+				any_sibling = { #female
+					is_alive = yes
+					age >= root.age
+					this.faith = { NOT = {has_dominant_ruling_gender = prev} }
+					#is_female = yes
+					count <= 0
+				}
+			}
+		}
+	}
+	effect = {
+
+	}
+}

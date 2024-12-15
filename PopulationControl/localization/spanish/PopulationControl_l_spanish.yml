@@ -1,0 +1,18 @@
+﻿l_spanish:
+Start_Population_Control_Decision:0 "Iniciar control de población"
+ Start_Population_Control_Decision_desc:0 "Iniciar control de población."
+ Start_Population_Control_Decision_confirm:0 "Iniciar control de población"
+ Start_Population_Control_Decision_tooltip:0 "Iniciar control de población"
+ Start_Population_Control_Decision_effect_tooltip:0 "Iniciar control de población. No habrá espacios vacíos en el cementerio."
+
+ Stop_Population_Control_Decision:0 "Detener control de población"
+ Stop_Population_Control_Decision_desc:0 "Detener el control de la población."
+ Stop_Population_Control_Decision_confirm:0 "Detener control de población"
+ Stop_Population_Control_Decision_tooltip:0 "Detener el control de la población"
+ Stop_Population_Control_Decision_effect_tooltip:0 "Detener el control de la población. Los directores de funerarias son gratis."
+
+ Population_Control_Child_Died_modifier:0 "Dolor de pérdida"
+ Population_Control_Child_Died_modifier_desc:0 "Esta persona está afligida porque el segador recientemente cosechó el alma del niño."
+
+ Population_Control_Stress_Mult_modifier:0 "Espíritu inquebrantable"
+ Population_Control_Stress_Mult_modifier_desc:0 "Recientemente, una persona cercana ha sido cosechada por un segador, pero el espíritu de este no se conmueve."

@@ -1,0 +1,18 @@
+﻿l_french:
+ Start_Population_Control_Decision:0 "Démarrer le contrôle de population"
+ Start_Population_Control_Decision_desc:0 "Démarrer le contrôle de population."
+ Start_Population_Control_Decision_confirm:0 "Démarrer le contrôle de population"
+ Start_Population_Control_Decision_tooltip:0 "Démarrer le contrôle de population"
+ Start_Population_Control_Decision_effect_tooltip:0 "Démarrer le contrôle de population. Il n'y aura pas d'espaces vides dans le cimetière."
+
+ Stop_Population_Control_Decision:0 "Arrêter le contrôle de la population"
+ Stop_Population_Control_Decision_desc:0 "Arrêter le contrôle de population."
+ Stop_Population_Control_Decision_confirm:0 "Arrêter le contrôle de la population"
+ Stop_Population_Control_Decision_tooltip:0 "Arrêter le contrôle de la population"
+ Stop_Population_Control_Decision_effect_tooltip:0 "Arrêtez le contrôle de la population. Les directeurs funéraires sont libres."
+
+ Population_Control_Child_Died_modifier:0 "Chagrin de perte"
+ Population_Control_Child_Died_modifier_desc:0 "Cette personne est en deuil parce que la faucheuse a récemment récolté l'âme de l'enfant."
+
+ Population_Control_Stress_Mult_modifier:0 "Esprit non ébranlé"
+ Population_Control_Stress_Mult_modifier_desc:0 "Récemment, une personne à proximité a été récoltée par un moissonneur, mais l'esprit de celui-ci n'est pas ébranlé."

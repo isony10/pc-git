@@ -1,0 +1,18 @@
+﻿l_korean:
+ Start_Population_Control_Decision:0 "인구 통제 시작"
+ Start_Population_Control_Decision_desc:0 "인구 통제를 시작합니다."
+ Start_Population_Control_Decision_confirm:0 "인구 통제 시작"
+ Start_Population_Control_Decision_tooltip:0 "인구 통제를 시작합니다"
+ Start_Population_Control_Decision_effect_tooltip:0 "인구 통제를 시작합니다. 묘지에 빈 자리가 없게 됩니다."
+
+ Stop_Population_Control_Decision:0 "인구 통제 중지"
+ Stop_Population_Control_Decision_desc:0 "인구 통제를 중지합니다."
+ Stop_Population_Control_Decision_confirm:0 "인구 통제 중지"
+ Stop_Population_Control_Decision_tooltip:0 "인구 통제를 중지합니다"
+ Stop_Population_Control_Decision_effect_tooltip:0 "인구 통제를 중지합니다. 장의사가 한가해집니다."
+
+ Population_Control_Child_Died_modifier:0 "상실의 슬픔"
+ Population_Control_Child_Died_modifier_desc:0 "이 자는 최근에 자녀의 영혼이 사신에게 수확당하여 슬픔에 빠져 있습니다."
+
+ Population_Control_Stress_Mult_modifier:0 "흔들리지 않는 정신"
+ Population_Control_Stress_Mult_modifier_desc:0 "최근에 주변인이 사신에게 영혼을 수확당했지만, 이 자의 정신은 흔들리지 않습니다."

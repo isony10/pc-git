@@ -1,0 +1,18 @@
+﻿l_german:
+ Start_Population_Control_Decision:0 "Populationskontrolle starten"
+ Start_Population_Control_Decision_desc:0 "Populationskontrolle starten."
+ Start_Population_Control_Decision_confirm:0 "Populationskontrolle starten"
+ Start_Population_Control_Decision_tooltip:0 "Populationskontrolle starten"
+ Start_Population_Control_Decision_effect_tooltip:0 "Starten Sie die Bevölkerungskontrolle. Es werden keine leeren Felder auf dem Friedhof sein."
+
+ Stop_Population_Control_Decision:0 "Populationskontrolle stoppen"
+ Stop_Population_Control_Decision_desc:0 "Populationskontrolle stoppen."
+ Stop_Population_Control_Decision_confirm:0 "Populationskontrolle stoppen"
+ Stop_Population_Control_Decision_tooltip:0 "Populationskontrolle stoppen"
+ Stop_Population_Control_Decision_effect_tooltip:0 "Beenden Sie die Bevölkerungskontrolle. Die Bestattungsunternehmen sind frei."
+
+ Population_Control_Child_Died_modifier:0 "Trauer des Verlustes"
+ Population_Control_Child_Died_modifier_desc:0 "Diese Person ist in Trauer, weil der Schnitter kürzlich die Seele des Kindes geerntet hat."
+
+ Population_Control_Stress_Mult_modifier:0 "Unshaken Spirit"
+ Population_Control_Stress_Mult_modifier_desc:0 "Kürzlich wurde eine Person in der Nähe von einem Schnitter geerntet, aber der Geist dieser Person wird nicht erschüttert."

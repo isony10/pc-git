@@ -1,0 +1,7 @@
+version="1.0"
+tags={
+	"Gameplay"
+}
+name="Population Control (Reduce late-game lag)"
+supported_version="1.14.*"
+remote_file_id="2276469612"

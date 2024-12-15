@@ -1,0 +1,18 @@
+﻿l_russian:
+ Start_Population_Control_Decision:0 "Начать контроль населения"
+ Start_Population_Control_Decision_desc:0 "Начать контроль населения."
+ Start_Population_Control_Decision_confirm:0 "Начать контроль населения"
+ Start_Population_Control_Decision_tooltip:0 "Начать контроль населения"
+ Start_Population_Control_Decision_effect_tooltip:0 "Начать контроль населения. На кладбище не будет пустых мест."
+
+ Stop_Population_Control_Decision:0 "Остановить контроль населения"
+ Stop_Population_Control_Decision_desc:0 "Остановить контроль населения."
+ Stop_Population_Control_Decision_confirm:0 "Остановить контроль населения"
+ Stop_Population_Control_Decision_tooltip:0 "Остановить контроль населения"
+ Stop_Population_Control_Decision_effect_tooltip:0 "Прекратить контроль населения. Похоронные директора свободны."
+
+ Population_Control_Child_Died_modifier:0 "Скорбь утраты"
+ Population_Control_Child_Died_modifier_desc:0 "Этот человек в горе, потому что жнец недавно забрал душу ребенка."
+
+ Population_Control_Stress_Mult_modifier:0 "Непоколебимый дух"
+ Population_Control_Stress_Mult_modifier_desc:0 "Недавно ближайший человек был убит жнецом, но дух этого не поколеблен."
