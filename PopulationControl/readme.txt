@@ -59,7 +59,7 @@ If the target is a member of the player's dynasty and there are no more than a 1
 
 The player's heir is considered the player's family.
 
-The older the target, the higher the probability of dying.
+The old
 
 The further the target's location is from the player, the higher the probability of dying.
 
