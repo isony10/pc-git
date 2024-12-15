@@ -18,7 +18,7 @@ Creates a decision to control the population. To control the population, you nee
 
 If the population exceeds the specified value, the characters are randomly get plague or die.
 
-Characters to die are not completely random. They are too old, far from the player, or in poor health. Characters such as lords, heirs, or lords with no heir are less likely to die. So the game doesn't change much.
+Characters to die are not completely random. Characters such as lords, heirs, or lords with no heir are less likely to die. So the game doesn't change much.
 
 If the current population is already high, it will take some time to get it under control. Please be patient. In the meantime, the game may slow down a bit.
 
@@ -58,8 +58,6 @@ If the target is in the player's court, It never dies. (including player's priso
 If the target is a member of the player's dynasty and there are no more than a 100 members(only who age <= 50), it does not die.
 
 The player's heir is considered the player's family.
-
-테스트
 
 The further the target's location is from the player, the higher the probability of dying.
 
