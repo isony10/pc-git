@@ -1,0 +1,18 @@
+﻿l_polish:
+ Start_Population_Control_Decision:0 "Rozpocznij Kontrolę Populacji"
+ Start_Population_Control_Decision_desc:0 "Rozpocznij kontrolę populacji."
+ Start_Population_Control_Decision_confirm:0 "Rozpocznij Kontrolę Populacji"
+ Start_Population_Control_Decision_tooltip:0 "Rozpocznij Kontrolę Populacji"
+ Start_Population_Control_Decision_effect_tooltip:0 "Rozpocznij kontrolę populacji. Nie będzie wolnych miejsc na cmenatarzu."
+
+ Stop_Population_Control_Decision:0 "Zatrzymaj Kontrolę Populacji"
+ Stop_Population_Control_Decision_desc:0 "Zatrzymaj kontrolę populacji."
+ Stop_Population_Control_Decision_confirm:0 "Zatrzymaj Kontrolę Populacji"
+ Stop_Population_Control_Decision_tooltip:0 "Zatrzymaj Kontrolę Populacji"
+ Stop_Population_Control_Decision_effect_tooltip:0 "Zatrzymaj kontrolę populacji. Kierownicy zakładów pogrzebowych są wolni."
+
+ Population_Control_Child_Died_modifier:0 "Żal po stracie"
+ Population_Control_Child_Died_modifier_desc:0 "Osoba ta jest w żałobie, ponieważ żniwiarz niedawno zebrał duszę dziecka."
+
+ Population_Control_Stress_Mult_modifier:0 "Niewzruszony Duch"
+ Population_Control_Stress_Mult_modifier_desc:0 "Niedawno pobliska osoba została zebrana przez żniwiarza, ale jej duch nie został zachwiany."
