@@ -7,9 +7,9 @@ Population_Control.0001 = {
 
 	trigger = {
 		OR = {
-			any_living_character = {				
-				count >= maintain_population_max			
-			}
+                       any_living_character = {
+                               count >= global_var:maintain_population_max
+                       }
 			exists = global_var:wipestart	
 		}
 	}
@@ -24,9 +24,9 @@ Population_Control.0001 = {
 		}
 		if = {
 			limit= {
-				any_living_character = {				
-					count <= maintain_population_min			
-				}	
+                               any_living_character = {
+                                       count <= global_var:maintain_population_min
+                               }
 			}		
 			remove_global_variable = wipestart				
 		}

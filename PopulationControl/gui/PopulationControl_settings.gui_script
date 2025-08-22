@@ -1,0 +1,11 @@
+PC_on_min_slider_change = {
+    gui_scope:SetGlobalVariable( 'maintain_population_min', GuiValue )
+}
+
+PC_on_max_slider_change = {
+    gui_scope:SetGlobalVariable( 'maintain_population_max', GuiValue )
+}
+
+PC_close_settings_window = {
+    Gui.Hide( 'PopulationControl_settings_window' )
+}

@@ -1,0 +1,33 @@
+guiTypes = {
+    containerWindowType = {
+        name = "PopulationControl_settings_window"
+        size = { x = 400 y = 150 }
+        layer = game
+        draggable = yes
+
+        children = {
+            slider = {
+                name = "maintain_min_slider"
+                position = { x = 20 y = 40 }
+                range = { min = 0 max = 100000 }
+                tooltip = "PC_SETTING_MIN_TOOLTIP"
+                value = "[GlobalVariableInt('maintain_population_min')]"
+                on_value_changed = "PC_on_min_slider_change"
+            }
+            slider = {
+                name = "maintain_max_slider"
+                position = { x = 20 y = 80 }
+                range = { min = 0 max = 100000 }
+                tooltip = "PC_SETTING_MAX_TOOLTIP"
+                value = "[GlobalVariableInt('maintain_population_max')]"
+                on_value_changed = "PC_on_max_slider_change"
+            }
+            button = {
+                name = "close_button"
+                position = { x = 150 y = 120 }
+                text = "PC_CLOSE"
+                on_click = "PC_close_settings_window"
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+l_simp_chinese:
+ PopulationControl_Open_Settings:0 "Population Control Settings"
+ PopulationControl_Open_Settings_desc:0 "Adjust Population Control parameters."
+ PopulationControl_Open_Settings_confirm:0 "Open Settings"
+ PopulationControl_Open_Settings_tooltip:0 "Open the Population Control settings window."
+ PC_SETTING_MIN_TOOLTIP:0 "Minimum population to maintain"
+ PC_SETTING_MAX_TOOLTIP:0 "Maximum population to maintain"
+ PC_CLOSE:0 "Close"

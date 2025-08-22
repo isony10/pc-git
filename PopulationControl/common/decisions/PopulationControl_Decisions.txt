@@ -8,13 +8,21 @@
 			exists = global_var:Population_Control_On
 		}
 	}
-	effect = {
-		custom_tooltip = Start_Population_Control_Decision_effect_tooltip
-		set_global_variable = {
-			name = Population_Control_On
-			value = 1
-		}
-	}
+        effect = {
+                custom_tooltip = Start_Population_Control_Decision_effect_tooltip
+                set_global_variable = {
+                        name = Population_Control_On
+                        value = 1
+                }
+                set_global_variable = {
+                        name = maintain_population_min
+                        value = 20000
+                }
+                set_global_variable = {
+                        name = maintain_population_max
+                        value = 22500
+                }
+        }
 	ai_check_interval = 0
 	ai_will_do = {
 		base=0

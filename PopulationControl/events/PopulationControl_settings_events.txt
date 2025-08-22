@@ -1,0 +1,15 @@
+event = {
+        id = Population_Control.settings.1
+        hide_window = yes
+        immediate = {
+                if = {
+                        limit = { NOT = { exists = global_var:maintain_population_min } }
+                        set_global_variable = { name = maintain_population_min value = 20000 }
+                }
+                if = {
+                        limit = { NOT = { exists = global_var:maintain_population_max } }
+                        set_global_variable = { name = maintain_population_max value = 22500 }
+                }
+                show_interface = { interface = PopulationControl_settings_window }
+        }
+}

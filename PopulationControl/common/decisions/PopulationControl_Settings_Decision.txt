@@ -1,0 +1,15 @@
+PopulationControl_Open_Settings = {
+        picture = {
+                reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+        }
+        decision_group_type = decisions
+        major = yes
+        is_shown = { always = yes }
+        effect = {
+                trigger_event = { id = Population_Control.settings.1 }
+        }
+        ai_check_interval = 0
+        ai_will_do = {
+                base=0
+        }
+}
